@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/Week-0-blue.svg)  ![](https://img.shields.io/badge/Uploaded-0%25-yellow.svg)
-# Deep Learning in  4 Weeks
+# Deep Learning
 This repository wants to guide you through the Deep Learning, from the most basic ones to the highly advanced RNN Networks. You will find the main topics organized by week and the resources suggested to learn them. Also, every week I will provide practical examples implemented in python to help you better digest the theory. You are highly encouraged to modify and play with them!
 
 # [Timeline](https://trello.com/b/1JAkkzsX.html)
@@ -9,10 +9,10 @@ This repository wants to guide you through the Deep Learning, from the most basi
 * Machine Learning
 
 ## Index
- - **[Week 1 - Deep Learning Basics]()**
- - **[Week 2 - Parameter Tuning]()**
- - **[Week 3 - CNN Networks]()**
- - **[Week 4 - RNN Networks]()**
+ - **[Deep Learning Basics]()**
+ - **[Parameter Tuning]()**
+ - **[CNN Networks]()**
+ - **[RNN Networks]()**
 
 ## Week 1 - Deep Learning Basics
 
